@@ -1,1 +1,4 @@
 .DS_Store
+*/node_modules/
+code/client/build
+code/client/node_modules
