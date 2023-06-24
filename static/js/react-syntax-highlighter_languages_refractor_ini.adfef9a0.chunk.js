@@ -1,0 +1,2 @@
+(this.webpackJsonprugfreecoins=this.webpackJsonprugfreecoins||[]).push([[60],{453:function(t,n,s){"use strict";function e(t){t.languages.ini={comment:/^[ \t]*[;#].*$/m,selector:/^[ \t]*\[.*?\]/m,constant:/^[ \t]*[^\s=]+?(?=[ \t]*=)/m,"attr-value":{pattern:/=.*/,inside:{punctuation:/^[=]/}}}}t.exports=e,e.displayName="ini",e.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_ini.adfef9a0.chunk.js.map
